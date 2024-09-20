@@ -1,0 +1,200 @@
+1
+Luis Herrera
+Monterrey
+Av. Garza Sada
+345
+8181234567
+250824
+1
+
+Es hipertenso
+Le duele la espalda
+No sigue su dieta
+
+1
+Gabriela Ruiz
+Guadalajara
+Av. Vallarta
+678
+3312345678
+250824
+1
+Gluten
+Polvo
+
+Tiene asma
+
+1
+Juan Gómez
+Puebla
+Av. Juárez
+987
+2229876543
+250824
+1
+
+Duerme mal
+
+1
+María López
+CDMX
+Calzada de Tlalpan
+1234
+5523456789
+250824
+1
+Mariscos
+Fresas
+Polvo
+
+
+1
+Roberto Sánchez
+Tijuana
+Blvd. Agua Caliente
+432
+6642231567
+250824
+1
+
+
+1
+Ana Martínez
+Chihuahua
+Av. 16 de Septiembre
+456
+6143456789
+250824
+1
+Lácteos
+
+Es alérgica a ciertos medicamentos
+
+1
+Carlos López
+Toluca
+Av. Las Torres
+789
+7223456789
+250824
+1
+Polen
+Nueces
+Ácaros
+
+Sufre de migrañas
+No tolera el frío
+
+1
+Elena Torres
+Querétaro
+Av. 5 de Febrero
+321
+4423456789
+250824
+1
+
+Tiene dolor crónico en las articulaciones
+
+1
+Javier Morales
+San Luis Potosí
+Av. Himno Nacional
+654
+4449876543
+250824
+1
+Chocolate
+Mariscos
+Polvo
+
+Es diabético
+Usa audífonos para escuchar mejor
+Tiene problemas de visión
+
+1
+Sofía Jiménez
+Aguascalientes
+Av. San Luis
+987
+4498765432
+250824
+1
+Fresas
+
+Tiene problemas de sueño
+Es vegetariana
+
+1
+Marta López
+Cancún
+Blvd. Kukulcán
+789
+9987654321
+250824
+1
+Polvo
+Mariscos
+Nueces
+
+Tiene ansiedad
+Usa lentes para ver de cerca
+
+1
+Ricardo Fernández
+Mérida
+Paseo de Montejo
+432
+9998765432
+250824
+1
+Gluten
+
+Es alérgico a los antibióticos
+Sufre de dolores de cabeza
+
+1
+Verónica Ruiz
+Tijuana
+Av. Revolución
+321
+6645678901
+250824
+1
+Lácteos
+Nueces
+Polen
+
+Tiene colesterol alto
+No puede usar perfumes
+
+1
+Tomás Sánchez
+Hermosillo
+Av. Solidaridad
+654
+6623456789
+250824
+1
+Ácaros
+
+Tiene asma
+Le cuesta respirar en ambientes secos
+
+1
+Beatriz Ramírez
+Saltillo
+Blvd. Venustiano Carranza
+987
+8443215678
+250824
+1
+Chocolate
+Mariscos
+Fresas
+Gluten
+
+Es alérgica a ciertos medicamentos
+Tiene problemas de visión
+Sufre de insomnio
+

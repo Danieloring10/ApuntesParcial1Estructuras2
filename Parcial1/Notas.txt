@@ -1,0 +1,25 @@
+typedef struct{
+    innt clave;
+    char nombre[50];
+    int generacion;
+    char carrera[50];
+}TAlumno:
+
+
+void Captura(&TAlumno){
+    ...
+}
+
+-Memoria dinamica?
+-Arreglos 
+
+malloc
+ralloc
+free
+Arreglos de nD = Muerte al comunismo
+
+Prolog es horrible
+QUiero morir
+Odio el mundo del Pajaro en Peggle Blast
+Pie is a lie
+Apuntes? Queseso?
